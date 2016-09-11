@@ -1,1 +1,2 @@
 # Dice
+Random Dice Calculator
